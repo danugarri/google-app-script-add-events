@@ -1,0 +1,15 @@
+{
+  "name": "google-apps-scripts",
+  "version": "1.0.0",
+  "description": "This is a Google Script developed to automate the proccess of adding sveral recursive events to your google calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "google"
+  ],
+  "author": "Danugarri",
+  "license": "ISC"
+}

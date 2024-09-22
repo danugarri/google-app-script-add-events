@@ -2,9 +2,9 @@ function createEvent(event) {
   try {
     const classes = getClasses();
     const options = {
-      description: 'Enlace de la reunión de zoom: https://us02web.zoom.us/meeting/register/tZcqc-igrzkoE9M91nDO2PcKArpzr4vGCjcb'
+      description: 'Enlace de la reunión de zoom: https://us02web.zoom.us/meeting/register/xxxxxxxxxxxxxx'
     };
-    const title = 'Clase de Inglés de Knowmad';
+    const title = 'Clase de Inglés';
 
     // Map months to index numbers
     const months = {
